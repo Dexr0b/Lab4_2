@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void fill ( int** A, int** B, int n, int m);
 void result ( int** A, int** B, int n, int m );
 void max_min( int n, int m, int** A, int** B );
 void transposeB ( int** B, int n, int m, int** T );
